@@ -11,6 +11,9 @@ namespace MyDictionary
 
             MyDictionary<int, string> myDictionary2 = new MyDictionary<int, string>();
             myDictionary2.Add(2, "Ayşenur:)");
+
+            MyDictionary<int, string> myDictionary3 = new MyDictionary<int, string>();
+            myDictionary3.Add(4, "Edanur");
         } 
     }
 }
